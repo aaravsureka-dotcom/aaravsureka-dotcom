@@ -21,7 +21,7 @@
 
 ### ⚡ Projects
 - ⚙️ **Physics Engine** — Simulation engine built from scratch in Python to model physical mechanics.
-- 🚧 **Project #2** — Work in Progress
+
 
 ---
 
