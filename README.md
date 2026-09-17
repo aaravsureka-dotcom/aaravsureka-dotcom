@@ -1,11 +1,11 @@
 # Hi there, I'm Aarav 👋
 
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+> "My code works, I have no idea why." — Every Developer Ever
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **a Physics Engine built from scratch**
-- 🌱 I’m currently learning **Machine Learning & Scientific Computing**
-- 💬 Ask me about **Python, Physics Simulations, and Data Science**
+- 🌱 I’m currently learning **Machine Learning**
+
 - 📫 How to reach me: **aaravsureka@gmail.com**
 
 ---
