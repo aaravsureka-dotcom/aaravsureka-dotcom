@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on a Physics Engine built from scratch
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning Machine Learning
 
 - 📫 How to reach me: **aaravsureka@gmail.com**
 
@@ -21,6 +21,9 @@
 
 ### ⚡ Projects
 - ⚙️ **Physics Engine** — Simulation engine built from scratch in Python to model physical mechanics.
+
+### Working On
+- Secret Project No.1: :)
 
 
 ---
