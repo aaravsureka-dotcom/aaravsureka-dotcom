@@ -3,9 +3,7 @@
 > "My code works, I have no idea why." — Every Developer Ever
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a Physics Engine built from scratch
-- 🌱 I’m currently learning Machine Learning
-
+- Currently working on a Nano-GPT sytle transformer
 - 📫 How to reach me: **aaravsureka@gmail.com**
 
 ---
