@@ -21,7 +21,7 @@
 - ⚙️ **Physics Engine** — Simulation engine built from scratch in Python to model physical mechanics.
 
 ### Working On
-- Secret Project No.1: :)
+- Nano-GPT style transformer: Version 0.4, currently uses  multi-headed attention
 
 
 ---
