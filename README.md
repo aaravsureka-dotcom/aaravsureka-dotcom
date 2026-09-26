@@ -23,10 +23,10 @@ I am a 12 year old self-taught developer currently learning PyTorch
 - ⚙️ **Physics Engine** — Simulation engine built from scratch in Python to model physical mechanics.
 
 ### Working On
-- Nano-GPT style transformer: Version 0.4, currently uses  multi-headed attention
+- Nano-GPT style transformer: Version 1.0, finally.....
 
 
 ---
 
 ### 📊 GitHub Stats
-![Aarav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+![Aarav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaravsureka-dotcom&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
