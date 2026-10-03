@@ -5,7 +5,7 @@
 I am a 12 year old self-taught developer currently learning PyTorch
 
 ### 🚀 About Me
-- Currently working on a Nano-GPT sytle transformer
+- Currently working on my organization: If ya like Machine Learning, join my organization and contact me.
 - 📫 How to reach me: **aaravsureka@gmail.com**  
 
 ---
