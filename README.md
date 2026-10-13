@@ -1,17 +1,78 @@
-<h1 align="center">Hi, I'm Aarav</h1>
-<h3 align="center">Self taught python developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravsureka-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="aaravsureka-dotcom" /> </p>
+# Aarav Sureka
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### `Python · Machine Learning · Deep Learning`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Building machine learning projects to understand how models work under the hood.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaravsureka-dotcom&show_icons=true&locale=en&layout=compact" alt="aaravsureka-dotcom" /></p>
+**Founder of ∂ Labs**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaravsureka-dotcom&show_icons=true&locale=en" alt="aaravsureka-dotcom" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaravsureka-dotcom&" alt="aaravsureka-dotcom" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-aaravsureka--dotcom-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/aaravsureka-dotcom)
+[![Python](https://img.shields.io/badge/Python-Primary%20language-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+</div>
+
+---
+
+## About
+
+Hey, I'm **Aarav** — a self-taught developer focused on **Python, machine learning, and neural networks**.
+
+I'm especially interested in understanding how language models work by building and experimenting with them, rather than treating them as black boxes.
+
+- 🧠 Exploring machine learning and deep learning
+- 🐍 Python is my primary programming language
+- 🔬 Built character-level and word-level transformer models from scratch using PyTorch
+- ∂ Founder of **∂ Labs**
+- ⚙️ I learn by building, testing ideas, and understanding the mechanics behind them
+
+## Featured Projects
+
+### Character Transformer
+A character-level transformer built from scratch with PyTorch, exploring how a model can learn patterns in character sequences and generate text.
+
+**Repository:** `Add the project repository URL`
+
+### Word Transformer
+A word-level transformer built from scratch with PyTorch, exploring transformer-based language modelling with word-level tokens.
+
+**Repository:** `Add the project repository URL`
+
+## Tech Stack
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+</div>
+
+| Area | Tools |
+|---|---|
+| Primary language | Python |
+| Deep learning | PyTorch |
+| Numerical computing | NumPy |
+| Data analysis | Pandas |
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravsureka-dotcom&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/aaravsureka-dotcom)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaravsureka-dotcom&layout=compact&hide_border=true&theme=transparent)](https://github.com/aaravsureka-dotcom)
+
+</div>
+
+---
+
+<div align="center">
+
+**Learn deeply. Build from scratch. Keep experimenting.**
+
+</div>
