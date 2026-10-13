@@ -35,12 +35,8 @@ I'm especially interested in understanding how language models work by building 
 ### Character Transformer
 A character-level transformer built from scratch with PyTorch, exploring how a model can learn patterns in character sequences and generate text.
 
-**Repository:** `Add the project repository URL`
-
-### Word Transformer
-A word-level transformer built from scratch with PyTorch, exploring transformer-based language modelling with word-level tokens.
-
-**Repository:** `Add the project repository URL`
+### Secret Project no 1
+Well lemme give you a hint... Think of GPT... 
 
 ## Tech Stack
 
