@@ -1,5 +1,3 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=Hey there Im Aarav;Execute+Order+66...+Just+Kidding.;Python+Dev+%7C+AI+%26+Deep+Learning;Building+the+Future%2C+One+Tensor+at+a+Time" alt="Animated Header Sign" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=80&lines=%3E_ INITIALIZING_LAB_SYSTEMS...;USER:%20AARAV%20%7C%20HEAD_OF_%E2%88%82_LABS;%3E_Python%20%2B%20PyTorch%20Deep%20Learning;May%20the%20Force%20be%20with%20your%20tensors." alt="Aarav Terminal Header" />
 </div>
-
-<br />
