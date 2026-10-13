@@ -1,49 +1,41 @@
-<!-- HEADER BANNER / ANIMATED SIGN -->
+<!-- HEADER BANNER / TYPING SIGN -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=USER_NAME;Execute+Order+66...+Just+Kidding.;Python+Dev+%7C+AI+%26+Deep+Learning;Building+the+Future%2C+One+Tensor+at+a+Time" alt="Animated Header Sign" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=80&lines=%3E_ INITIALIZING_LAB_SYSTEMS...;USER:%20AARAV%20%7C%20HEAD_OF_%E2%88%82_LABS;%3E_Python%20%2B%20PyTorch%20Deep%20Learning;May%20the%20Force%20be%20with%20your%20tensors." alt="Aarav Terminal Header" />
+</div>
+
+<div align="center">
+
+[![Identity: Aarav](https://img.shields.io/badge/AARAV-HEAD_OF_%E2%88%82_LABS-00F0FF?style=for-the-badge&logo=starwars&logoColor=00F0FF)](#)
+[![Primary Stack: Python](https://img.shields.io/badge/PYTHON-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![DL Framework: PyTorch](https://img.shields.io/badge/PYTORCH-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+
 </div>
 
 <br />
-
-<!-- QUOTE & STATUS -->
-<div align="center">
-  <sub><code>System status: ONLINE // "Do or do not. There is no try." — Yoda</code></sub>
-</div>
-
-<br />
-
-<!-- BADGES -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-</div>
 
 ---
 
-### // TERMINAL LOGS
+### // TERMINAL ENVIRONMENT
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "YOUR_NAME"
-        self.faction = "Jedi Order"  # or Sith Empire
-        self.primary_language = "Python"
-        self.focus_areas = ["Deep Learning", "Transformer Architectures", "High-Performance Systems"]
-        
-    def current_status(self):
+class Aarav:
+    def __init__(self) -> None:
+        self.name: str = "Aarav"
+        self.role: str = "Head of ∂ labs"
+        self.primary_stack: list[str] = ["Python", "PyTorch"]
+        self.research_focus: list[str] = [
+            "Transformer Architectures",
+            "Attention Mechanisms",
+            "Deep Learning Optimizations"
+        ]
+
+    def current_mission(self) -> dict[str, str]:
         return {
-            "learning": "Advanced CUDA Optimizations & Tensor Parallelism",
-            "building": "Next-Gen AI Models",
-            "collaborating_on": "Open Source Python Projects"
+            "status": "OPERATIONAL",
+            "lab": "∂ labs",
+            "quote": "Do or do not. There is no try."
         }
 
 if __name__ == "__main__":
-    dev = Developer()
-    print(dev.current_status())
+    me = Aarav()
+    print(me.current_mission())
