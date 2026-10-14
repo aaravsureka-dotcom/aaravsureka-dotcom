@@ -36,7 +36,7 @@ I'm especially interested in understanding how language models work by building 
 A character-level transformer built from scratch with PyTorch, exploring how a model can learn patterns in character sequences and generate text.
 
 ### Secret Project no 1
-Well lemme give you a hint... Think of GPT... 
+Well lemme give you a hint: Think of GPT... 
 
 ## Tech Stack
 
@@ -48,13 +48,6 @@ Well lemme give you a hint... Think of GPT...
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 </div>
-
-| Area | Tools |
-|---|---|
-| Primary language | Python |
-| Deep learning | PyTorch |
-| Numerical computing | NumPy |
-| Data analysis | Pandas |
 
 ## GitHub Stats
 
