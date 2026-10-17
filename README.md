@@ -1,4 +1,4 @@
-<div align="center">
+<img width="480" height="208" alt="Revenge Of The Sith Hello GIF by Star Wars" src="https://github.com/user-attachments/assets/a5c8e685-9c66-4c42-8051-7827db62d626" /><div align="center">
 
 # Aarav Sureka
 
@@ -20,7 +20,8 @@ Building machine learning projects to understand how models work under the hood.
 
 ## About
 
-Hey, I'm **Aarav** — a self-taught developer focused on **Python, machine learning, and neural networks**.
+Hello there..., I'm **Aarav** — a self-taught developer focused on **Python, machine learning, and neural networks**. <img width="514" height="722" alt="image" src="https://github.com/user-attachments/assets/5e8af657-12a9-4dff-86cf-363a90ccd912" />
+
 
 I'm especially interested in understanding how language models work by building and experimenting with them, rather than treating them as black boxes.
 
