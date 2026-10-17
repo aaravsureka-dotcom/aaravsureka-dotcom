@@ -1,4 +1,3 @@
-<img width="480" height="208" alt="Revenge Of The Sith Hello GIF by Star Wars" src="https://github.com/user-attachments/assets/a5c8e685-9c66-4c42-8051-7827db62d626" /><div align="center">
 
 # Aarav Sureka
 
