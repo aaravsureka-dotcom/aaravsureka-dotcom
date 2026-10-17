@@ -20,16 +20,13 @@ Building machine learning projects to understand how models work under the hood.
 
 ## About
 
-Hello there..., I'm **Aarav** — a self-taught developer focused on **Python, machine learning, and neural networks**. <img width="514" height="722" alt="image" src="https://github.com/user-attachments/assets/5e8af657-12a9-4dff-86cf-363a90ccd912" />
+Hello there..., I'm **Aarav** — a self-taught developer focused on **Python, machine learning, and neural networks**.
 
 
 I'm especially interested in understanding how language models work by building and experimenting with them, rather than treating them as black boxes.
 
-- 🧠 Exploring machine learning and deep learning
-- 🐍 Python is my primary programming language
 - 🔬 Built character-level and word-level transformer models from scratch using PyTorch
 - ∂ Founder of **∂ Labs**
-- ⚙️ I learn by building, testing ideas, and understanding the mechanics behind them
 
 ## Featured Projects
 
@@ -37,7 +34,7 @@ I'm especially interested in understanding how language models work by building 
 A character-level transformer built from scratch with PyTorch, exploring how a model can learn patterns in character sequences and generate text.
 
 ### Secret Project no 1
-Well lemme give you a hint: Think of GPT... 
+Well its called secret for a reason.
 
 ## Tech Stack
 
