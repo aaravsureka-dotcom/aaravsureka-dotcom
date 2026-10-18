@@ -1,9 +1,7 @@
 
 # Aarav Sureka
 
-### `Python · Machine Learning · Deep Learning`
-
-Building machine learning projects to understand how models work under the hood.
+### `Python · Machine Learning · Transformers`
 
 **Founder of ∂ Labs**
 
@@ -19,18 +17,17 @@ Building machine learning projects to understand how models work under the hood.
 
 ## About
 
-Hello there..., I'm **Aarav** — a self-taught developer focused on **Python, machine learning, and neural networks**.
+Hey There, Im Aarav, a 12 year old self taught developer.
 
 
-I'm especially interested in understanding how language models work by building and experimenting with them, rather than treating them as black boxes.
 
-- 🔬 Built character-level and word-level transformer models from scratch using PyTorch
-- ∂ Founder of **∂ Labs**
+
+ ∂ Founder of **∂ Labs**
 
 ## Featured Projects
 
 ### Character Transformer
-A character-level transformer built from scratch with PyTorch, exploring how a model can learn patterns in character sequences and generate text.
+A character-level transformer built from scratch with PyTorch, exploring how a model can learn patterns in character sequences and generate text without using pre-set weights or models.
 
 ### Secret Project no 1
 Well its called secret for a reason.
