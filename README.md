@@ -56,6 +56,8 @@ Well its called secret for a reason.
 
 <div align="center">
 
-**Learn deeply. Build from scratch. Keep experimenting.**
+
+<img width="487" height="600" alt="image" src="https://github.com/user-attachments/assets/237a4193-35da-4610-9dd3-9577ec4b8e1b" />
+
 
 </div>
