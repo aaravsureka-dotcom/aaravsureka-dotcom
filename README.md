@@ -24,6 +24,11 @@ Hey There, Im Aarav, a 12 year old self taught developer.
 
  ∂ Founder of **∂ Labs**
 
+## Working On
+I've not been active for long have not i.
+Im working on something really big, 
+It should be ready in the next couple of weeks maybe even 2 months.
+
 ## Featured Projects
 
 ### Character Transformer
